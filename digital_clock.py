@@ -1,6 +1,7 @@
 from tkinter import Tk, Label
 
-print("Hello World")
+print("Should create a screen")
+print("Should chqange the background")
 #windowss = Tk()
 
 ##windowss.title("Digital Clock")
